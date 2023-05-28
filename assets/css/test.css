@@ -1,0 +1,135 @@
+body{margin: 0;
+  position:relative ; 
+background-image: url(../img/image/black.jpg);}
+.primary{
+  height: 100vh;
+
+    width: 100%;
+    background-image: url(../img/image/wood.jpg);
+}
+
+.primary2{
+  height: 100vh;
+  width: 100%;
+  background-image: url(../img/image/bg_2.jpg);
+  background-size:cover ;
+}
+.pizza2{
+ visibility: hidden;
+}
+.type {
+  border-radius: 50% ;
+}
+.type:hover{
+  box-shadow: 20px 20px 50px grey;
+  border-radius: 5%;
+}
+.Brand{
+    position:relative ;
+    left:220px
+}
+.pizza {
+    position:relative ;
+    left: 850px;
+    border-radius: 50%;
+    margin-top: 150px;
+    
+        -webkit-animation: rotating 10s linear infinite;
+        -moz-animation: rotating 5s linear infinite;
+        -ms-animation: rotating 5s linear infinite;
+        -o-animation: rotating 5s linear infinite;
+        animation: rotating 10s linear infinite;  
+  }
+  .pizza:hover{
+    animation: rotating 0s none;  
+
+  }
+  @-webkit-keyframes rotating {
+    from {
+      -webkit-transform: rotate(0deg);
+      -o-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+    to {
+      -webkit-transform: rotate(360deg);
+      -o-transform: rotate(360deg);
+      transform: rotate(360deg);
+    }
+  }
+  @keyframes rotating {
+    from {
+      -ms-transform: rotate(0deg);
+      -moz-transform: rotate(0deg);
+      -webkit-transform: rotate(0deg);
+      -o-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+    to {
+      -ms-transform: rotate(360deg);
+      -moz-transform: rotate(360deg);
+      -webkit-transform: rotate(360deg);
+      -o-transform: rotate(360deg);
+      transform: rotate(360deg);
+    }
+    
+  }
+  .xbtn {
+    background-color: #000;
+  }
+
+  .xcard{
+    background-color: #000;
+  
+  }
+  .xcard h5 , .xcard p , .xcard a {
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  .Welcome{
+    font-size:xx-large ;
+    font-style: italic; 
+    color:rgba(237, 192, 45, 0.822);
+    font-family:cursive;
+position: absolute;
+left: 500px;
+  top: 15%;  
+ }
+ .bio{
+    position: absolute;
+    left: 350px;
+      top:19%;
+      font-size:xx-large ;
+      color: #fff;
+      font-family: Courier New;
+ }
+ .bio1{
+    position: absolute;
+    left: 450px;
+      top:22%;
+      font-size:xx-large ;
+      color: #fff;
+      font-family: Courier New;
+ }
+
+   .menu0{
+    position: relative;
+    color: #fff;
+    font-size:8ch;
+    font-family: Courier New ;
+    left: 40%;
+    top: 30%;
+    text-shadow: 2px 2px 5px#000;
+   }
+   
+  p{
+    opacity: .5;
+  }
+
+  .modal-header{
+    background-color:#343a40;
+    }
+
+    .modal-title{
+      color: #fff;
+    }
