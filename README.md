@@ -18,10 +18,10 @@
 <img src = "https://github.com/AlaaDuridi/SEPIZZA/assets/51034664/5eb580ee-4a4a-4dce-9530-15973c31cd81">
 
 <h3>Admin View </h3>
-<img src ="![six](https://github.com/AlaaDuridi/SEPIZZA/assets/51034664/344cd80b-7e97-4ba5-80b5-25f847b109c4)" > 
-<img src ="![seven](https://github.com/AlaaDuridi/SEPIZZA/assets/51034664/7af68f2d-ceec-4f8c-872b-0b972f12445f)">
-<img src="![eoght](https://github.com/AlaaDuridi/SEPIZZA/assets/51034664/3a6e5bc3-d513-4189-9b4b-8eaceb8dd15f)">
-<img src = "![nine](https://github.com/AlaaDuridi/SEPIZZA/assets/51034664/72aef9dd-7714-4694-9c0e-02c4641ad97d)"> 
+<img src ="https://github.com/AlaaDuridi/SEPIZZA/assets/51034664/344cd80b-7e97-4ba5-80b5-25f847b109c4" > 
+<img src ="https://github.com/AlaaDuridi/SEPIZZA/assets/51034664/7af68f2d-ceec-4f8c-872b-0b972f12445f">
+<img src="https://github.com/AlaaDuridi/SEPIZZA/assets/51034664/3a6e5bc3-d513-4189-9b4b-8eaceb8dd15f">
+<img src = "https://github.com/AlaaDuridi/SEPIZZA/assets/51034664/72aef9dd-7714-4694-9c0e-02c4641ad97d"> 
 
 
 
