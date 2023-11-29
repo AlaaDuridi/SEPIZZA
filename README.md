@@ -15,7 +15,12 @@
 <img src ="https://github.com/AlaaDuridi/SEPIZZA/assets/51034664/8a61b85e-9a43-4ba6-a8d4-3cd830ed1f86">
 <img scr ="https://github.com/AlaaDuridi/SEPIZZA/assets/51034664/31cba158-9726-4d9b-b24e-717e6a930d2f">
 <img src ="https://github.com/AlaaDuridi/SEPIZZA/assets/51034664/d027cea2-9375-4710-9d22-7b3b937918e2">
-<img src = "https://github.com/AlaaDuridi/SEPIZZA/assets/51034664/5eb580ee-4a4a-4dce-9530-15973c31cd81">
+<img src="https://github.com/AlaaDuridi/SEPIZZA/assets/51034664/8ee5e7af-0d44-4f2b-bab9-8f0656604fcd">
+<img src="https://github.com/AlaaDuridi/SEPIZZA/assets/51034664/38b942bb-4472-47b2-8e10-72ba545fe8b2">
+<img src="https://github.com/AlaaDuridi/SEPIZZA/assets/51034664/1a8f622d-881a-46e0-b2e7-57f79ae41d4f">
+<img src="https://github.com/AlaaDuridi/SEPIZZA/assets/51034664/b0885ced-b65d-4c6b-b579-bdd834c37bfd">
+<img src="https://github.com/AlaaDuridi/SEPIZZA/assets/51034664/611923fb-4a36-4ba5-8ac6-e9f80c9c68cf">
+
 <hr>
 <h3>Admin View </h3>
 <img src ="https://github.com/AlaaDuridi/SEPIZZA/assets/51034664/344cd80b-7e97-4ba5-80b5-25f847b109c4" > 
